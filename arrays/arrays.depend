@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652734480 source:f:\work\c++ training\code\arrays\main.cpp
+	<iostream>
+	<algorithm>
+	<iterator>
+
